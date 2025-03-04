@@ -6,7 +6,7 @@
 - Interdisciplinary work with environmental historians in the 🐉[DRAGEN Lab](https://www.dragenlab.ca/)
 
 👯 I’m looking to collaborate on
-- Graphic design
+- Graphic design (please help me)
 - Documentation for [ENVO](https://github.com/EnvironmentOntology/envo)
 - Open data standards for ecology
 
