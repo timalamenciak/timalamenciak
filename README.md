@@ -17,5 +17,5 @@
 
 🪚Hobbies
 - Woodworking
-- Cycling
+- French (B1)
 - Baking
