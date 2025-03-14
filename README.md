@@ -1,4 +1,5 @@
-## Hello/Salut! 👋
+## Hello/Bonjour! 👋
+I'm a translational ecologist focusing on program evaluation, open data and the facilitation of communities of practice.
 
 🖥 I'm working on
 - Investigating outcomes of term agreements with [Bennett Lab](https://carleton.ca/bennett-lab/) and 🦆[Ducks Unlimited](https://www.ducks.ca/)
