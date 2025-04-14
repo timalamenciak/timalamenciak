@@ -20,3 +20,5 @@ I'm a translational ecologist focusing on program evaluation, open data and the 
 - Woodworking
 - French (B1)
 - Baking
+
+[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timalamenciak)](https://github.com/anuraghazra/github-readme-stats)
