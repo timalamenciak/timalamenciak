@@ -3,7 +3,7 @@ I'm a translational ecologist focusing on program evaluation, open data and the 
 
 🖥 I'm working on
 - Investigating outcomes of term agreements with [Bennett Lab](https://carleton.ca/bennett-lab/) and 🦆[Ducks Unlimited](https://www.ducks.ca/)
-- Curating [ENVO](https://github.com/EnvironmentOntology/envo)
+- Curating [ENVO](https://github.com/EnvironmentOntology/envo) and [ELMO](https://github.com/timalamenciak/elmo)
 - Interdisciplinary work with environmental historians in the 🐉[DRAGEN Lab](https://www.dragenlab.ca/)
 
 👯 I’m looking to collaborate on
