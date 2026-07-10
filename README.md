@@ -3,13 +3,13 @@ I'm a translational ecologist focusing on program evaluation, open data and the 
 
 🖥 I'm working on
 - Investigating outcomes of term agreements with [Bennett Lab](https://carleton.ca/bennett-lab/) and 🦆[Ducks Unlimited](https://www.ducks.ca/)
-- Curating [ENVO](https://github.com/EnvironmentOntology/envo) and [ELMO](https://github.com/timalamenciak/elmo)
+- Curating [ELMO](https://github.com/timalamenciak/elmo) and the [Causal Mosaic Schema](https://github.com/timalamenciak/causalmosaic)
+- Co-leading [EcoWeaver](https://ecoweaver.hi-knowledge.org)
 - Interdisciplinary work with environmental historians in the 🐉[DRAGEN Lab](https://www.dragenlab.ca/)
 
 👯 I’m looking to collaborate on
-- Graphic design (please help me)
-- Documentation for [ENVO](https://github.com/EnvironmentOntology/envo)
 - Open data standards for ecology
+- AI & knowledge mobilization in conservation and restoration
 
 🌻My primary research interests
 - Restoration ecology
